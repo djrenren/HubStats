@@ -1,6 +1,3 @@
-HubStats
-========
-
-Get the dirt from GitHub.com.
-
-# RENNER YOU TOOK MY IDEA
+# HubStats
+***
+Get the dirt from GitHub.com. An auto updating blame board for you friends/team.
