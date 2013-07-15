@@ -1,6 +1,9 @@
 require 'sinatra'
 require 'haml'
+Dir["./src/*.rb"].each {|file| require file }
 
 get '/' do
-  haml :index
+
+	return Application::getUserInfo("7imbrook")  
+
 end
